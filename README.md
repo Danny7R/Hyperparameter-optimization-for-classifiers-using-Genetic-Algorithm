@@ -194,7 +194,7 @@ In this section all results are presented. On each dataset, we will compare the 
 
 Please note that in Grid search we are using reasonable limits, in order to have more feasible run times. Additionally, in case of real parameters, specific steps must be defined to be able to perform Grid search.
 
-<p style="margin-left: 40px">
+<p align="center">
 <i>Table 6</i>
 </p>
 
