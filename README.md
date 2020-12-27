@@ -34,7 +34,9 @@ The first two datasets are used for tuning the algorithm, which includes design 
 
 Table 1 demonstrates the outline of this dataset:
 
-_Table 1_
+<p align="center">
+<i>Table 1</i>
+</p>
 
 | Number of classes | Total number of samples | Number of samples per class | Number of features | Feature value types |
 | :---: | :---: | :---: | :---: | :---: |
@@ -53,7 +55,9 @@ This database contains information about 4597 email messages. Most of the featur
 
 Table 2 demonstrates the outline of this dataset:
 
-_Table 2_
+<p align="center">
+<i>Table 2</i>
+</p>
 
 | Number of classes | Total number of samples | Number of samples per class | Number of features | Feature value types |
 | :---: | :---: | :---: | :---: | :---: |
@@ -67,8 +71,9 @@ This is an artificial data set where instances belong to several clusters with a
 
 Table 3 demonstrates the outline of this dataset:
 
-_Table 3_
-
+<p align="center">
+<i>Table 3</i>
+</p>
 
 | Number of classes | Total number of samples | Number of samples per class | Number of features | Feature value types |
 | :---: | :---: | :---: | :---: | :---: |
@@ -82,7 +87,9 @@ This dataset contains the results of a chemical analysis of wines grown in the s
 
 Table 4 demonstrates the outline of this dataset:
 
-_Table 4_
+<p align="center">
+<i>Table 4</i>
+</p>
 
 | Number of classes | Total number of samples | Number of samples per class | Number of features | Feature value types |
 | :---: | :---: | :---: | :---: | :---: |
@@ -98,7 +105,9 @@ Received signals were processed using an autocorrelation function whose argument
 
 Table 5 demonstrates the outline of this dataset:
 
-_Table 5_
+<p align="center">
+<i>Table 5</i>
+</p>
 
 | Number of classes | Total number of samples | Number of samples per class | Number of features | Feature value types |
 | :---: | :---: | :---: | :---: | :---: |
@@ -185,7 +194,9 @@ In this section all results are presented. On each dataset, we will compare the 
 
 Please note that in Grid search we are using reasonable limits, in order to have more feasible run times. Additionally, in case of real parameters, specific steps must be defined to be able to perform Grid search.
 
-_Table 6_
+<p align="center">
+<i>Table 6</i>
+</p>
 
 | Spambase Dataset | SVM | | Random Forest | |
 | :---: | :---: | :---: | :---: | :---: |
@@ -193,7 +204,9 @@ _Table 6_
 | Proposed Alg. | 0.934 | 16 s | 0.955 | 10 s |
 | Grid search | 0.941 | 4250 s | 0.957 | 1703 s |
 
-_Table 7_
+<p align="center">
+<i>Table 7</i>
+</p>
 
 | Banana Dataset | SVM | | Random Forest | |
 | :---: | :---: | :---: | :---: | :---: |
@@ -201,7 +214,9 @@ _Table 7_
 | Proposed Alg. | 0.914 | 10 s | 0.901 | 8 s |
 | Grid search | 0.915 | 4558 s | 0.911 | 1307 |
 
-_Table 8_
+<p align="center">
+<i>Table 8</i>
+</p>
 
 | Wine Dataset | SVM | | Random Forest | |
 | :---: | :---: | :---: | :---: | :---: |
@@ -209,7 +224,9 @@ _Table 8_
 | Proposed Alg. | 1.0 | 0.11 s | 1.0 | 3 s |
 | Grid search | 1.0 | 280 s | 1.0 | 790 s |
 
-_Table 9_
+<p align="center">
+<i>Table 9</i>
+</p>
 
 | Ionosphere Dataset | SVM | | Random Forest | |
 | :---: | :---: | :---: | :---: | :---: |
@@ -217,7 +234,9 @@ _Table 9_
 | Proposed Alg. | 0.962 | 0.18 s | 0.953 | 4 s |
 | Grid search | 0.971 | 560 s | 0.970 | 973 s |
 
-_Table 10_
+<p align="center">
+<i>Table 10</i>
+</p>
 
 | Iris Dataset | SVM | | Random Forest | |
 | :---: | :---: | :---: | :---: | :---: |
